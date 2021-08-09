@@ -21,8 +21,7 @@ const html = (options: {
 if (import.meta.main) {
   const ignore = "--ignore=" + [
     "docs",
-    "jsx.d.ts",
-    "preact.d.ts",
+    "deps",
   ].join(",");
   await cli({
     server: "https://deno.land/x/surv@v0.2.5/serve.ts",
