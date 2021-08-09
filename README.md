@@ -2,7 +2,8 @@
 
 # Surv Demo Preact
 
-[surv demo preact] is an example of using [preact] to build a website with [surv].
+[surv demo preact] is an example of using [preact] to build a website with
+[surv].
 
 [![License][license badge]][license] [![CI][ci badge]][ci]
 [![Coverage][coverage badge]][coverage] [![GitHub][github badge]][github]
